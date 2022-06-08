@@ -63,7 +63,7 @@
 .pagetitle
 {
 	text-align: center;
-	color: beige;;
+	color: beige;
 	display: block;
 	text-transform: uppercase;
 	font-family: proxima-nova, Arial Narrow;
@@ -129,4 +129,24 @@
     margin: 0;
     padding: 28px 0;
 	float: left;
+}
+.video
+{
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.descriptionhead
+{
+	display: flex;
+	text-align: center;
+	color: beige;
+	font-family: proxima-nova, Arial Narrow;
+	font-size: 25px;
+	font-weight: light;
+	margin: 0 auto 28px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
 }
