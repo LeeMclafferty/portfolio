@@ -150,3 +150,81 @@
 	margin-bottom: 5px;
 	margin-left: auto;
 }
+.projectdescription
+{
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	font-family: proxima-nova, Times New Roman;
+	color:rgb(216, 216, 218);
+	font-weight: 400;
+	font-size: 18px;
+	font-style: normal;
+	text-align: left;
+	height: auto;
+	width: auto;
+	margin: 0;
+	line-height: 1.7em;
+	display: inline-flex;
+	margin: 50px;
+}
+.otherprojects
+{
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	font-family: proxima-nova, Times New Roman;
+	color:rgb(216, 216, 218);
+	font-weight: 400;
+	font-size: 18px;
+	font-style: normal;
+	text-align: left;
+	height: auto;
+	width: auto;
+	margin: 0;
+	line-height: 1.7em;
+	display: flex;
+	margin: 50px;
+}
+.othergiticon
+{
+	max-width: 200px;
+	height: 200px;
+	float: right;
+}
+.giticon
+{
+	 display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 80px;
+    width: 80px;
+}
+.otherdescriptionhead
+{
+	display: inline;
+	color: beige;
+	font-family: proxima-nova, Arial Narrow;
+	font-size: 25px;
+	font-weight: light;
+	margin: 0 auto 28px;
+	margin-top: 0px;
+	margin-right: 200px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	text-align: right;
+	float: right;
+}
+.othersubheader
+{
+	text-align: center;
+	color: beige;
+	text-transform: uppercase;
+	font-family: proxima-nova, Arial Narrow;
+	font-size: 25px;
+	font-weight: light;
+	margin: 0 auto 28px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+
